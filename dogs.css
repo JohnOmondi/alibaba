@@ -1,0 +1,19 @@
+#dog1{
+    display: flex;
+
+}
+#dog2{
+    display: flex;
+}
+#dog\ 3{
+    display: flex;
+}
+img{
+    height: 150px;
+}
+
+
+.h12h{
+    margin: 12px;
+    margin-top: 40px;
+}
